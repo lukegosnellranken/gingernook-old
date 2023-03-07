@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
+.nav-list {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    text-decoration: none;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5%;
+}
+
+.logo {
+    display: flex;
+    justify-content: left;
+    padding-left: 5%;
+}
